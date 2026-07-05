@@ -17,7 +17,7 @@ I was interested to see if the courtesy by players, coaches and front offices to
 ### Stadium Experience and Affordability 
 
 I was interested to see if the quality of venue; fan friendliness of environment; frequency of game-day promotions has any relation to the price of tickets, parking, and concessions at the stadiums of each team. I found that there is no relationship between between stadium experience and affordability. However, I found it interesting that the stadiums with the highest scores for stadium experience have some of the highest affordability. I hypothesized that the stadiums with the best expeince would be less affordable, with higher ticket prices for a higher qaulity stadium, however, this is not the case. 
-![This is a chart showing the stadium experince and affordability score of each team]()
+![This is a chart showing the stadium experince and affordability score of each team](experience-and-affordability.png)
 
 
 ### Ownership and the Bandwagon Factor 
