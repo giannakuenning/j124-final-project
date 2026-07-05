@@ -13,10 +13,11 @@ The dataset used in this story was downloaded through github, from the news webs
 I was interested to see if the courtesy by players, coaches and front offices towrd fan, has any relation to the championships/division titels/wins in the team's entire history. I found that there is no significant relationship between the fan relation sscore and tradition score for each team. My hypothesis was that teams with higher fan relations would have a higher tradition score, however, this is not necessarily true. The 4 teams with the lowest fan relations have some of the highest scores for tradition, but there is no signficant relationship.
 ![This is a chart showing the fan relations and tradition score for each team](relations-and-traditions.png) 
 
+
 ### Stadium Experience and Affordability 
 
 I was interested to see if the quality of venue; fan friendliness of environment; frequency of game-day promotions has any relation to the price of tickets, parking, and concessions at the stadiums of each team. I found that there is no relationship between between stadium experience and affordability. However, I found it interesting that the stadiums with the highest scores for stadium experience have some of the highest affordability. I hypothesized that the stadiums with the best expeince would be less affordable, with higher ticket prices for a higher qaulity stadium, however, this is not the case. 
-![This is a chart showing the stadium experince and affordability score of each team](
+![This is a chart showing the stadium experince and affordability score of each team]()
 
 
 ### Ownership and the Bandwagon Factor 
