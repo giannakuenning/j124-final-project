@@ -11,7 +11,7 @@ The dataset used in this story was downloaded through github, from the news webs
 ### Fan Relations and Traditions 
 
 I was interested to see if the courtesy by players, coaches and front offices towrd fan, has any relation to the championships/division titels/wins in the team's entire history. I found that...
-**insert chart** 
+
 
 ### Stadium Experience and Affordability 
 
