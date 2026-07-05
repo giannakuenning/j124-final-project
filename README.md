@@ -1,4 +1,4 @@
-# Tired of disapointment from your NFL team? Here is an algorithm to find your new favorite team
+# Tired of disapointment from your NFL team? Here is an algorithm to find your new one
 
 After Blythe Terrell, editor for FiveThirtyEight claimed the Los Anglese Rams were "dead to her," she created an algorithm that answered 3,352 questions to find her new team, and you can too. By looking at categories including, fan relation , the bandgwagon factor, and tradition, Terrell scored what categories mean most to her, and used those ratings to find her new favorite team. 
 
@@ -15,12 +15,13 @@ I was interested to see if the courtesy by players, coaches and front offices to
 
 ### Stadium Experience and Affordability 
 
-text 
+I was interested to see if the quality of venue; fan friendliness of environment; frequency of game-day promotions has any relation to the price of tickets, parking, and concessions at the stadiums of each team. I found that...
 **insert chart**
+
 
 ### Ownership and the Bandwagon Factor 
 
-text 
+I was curious if loyalty to core players and the community has any relation to whether each team's next 5 years are likely to be better than their previous 5. I found that
 **insert chart**
 
 
