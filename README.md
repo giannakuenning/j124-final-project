@@ -10,7 +10,7 @@ The dataset used in this story was downloaded through github, from the news webs
 
 ### Fan Relations and Traditions 
 
-I was interested to see if the courtesy by players, coaches and front offices toward fan, has any relation to the championships/division titles/wins in the team's entire history. I found that there is no significant relationship between the fan relation score and tradition score for each team. My hypothesis was that teams with higher fan relations would have a higher tradition score, however, this is not necessarily true. The 4 teams with the lowest fan relations have some of the highest scores for tradition, but there is no signficant relationship.
+I was interested to see if the courtesy by players, coaches and front offices toward fan, has any relation to the championships/division titles/wins in the team's entire history. [Using FiveThrityEight's data on GitHub](https://github.com/fivethirtyeight/data/blob/master/nfl-favorite-team/team-picking-categories.csv), I found that there is no significant relationship between the fan relation score and tradition score for each team. My hypothesis was that teams with higher fan relations would have a higher tradition score, however, this is not necessarily true. The 4 teams with the lowest fan relations have some of the highest scores for tradition, but there is no signficant relationship.
 
 ![This is a chart showing the fan relations score and tradition score for each team](relations-and-traditions.png) 
 
