@@ -17,14 +17,14 @@ I was interested to see if the courtesy by players, coaches and front offices to
 
 ### Stadium Experience and Affordability 
 
-I was interested to see if the quality of the venue, fan friendliness of theenvironment, and frequency of game-day promotions has any relation to the price of tickets, parking, and concessions at the stadiums of each team. I found that there is no relationship between stadium experience and affordability. However, I found it interesting that the stadiums with the highest scores for stadium experience have some of the highest affordability. I hypothesized that the stadiums with the best experience would be less affordable, with higher ticket prices for a higher quality stadium, however, this is not the case. 
+I was interested to see if the quality of the venue, fan friendliness of theenvironment, and frequency of game-day promotions has any relation to the price of tickets, parking, and concessions at the stadiums of each team. [Using FiveThrityEight's data on GitHub](https://github.com/fivethirtyeight/data/blob/master/nfl-favorite-team/team-picking-categories.csv),I found that there is no relationship between stadium experience and affordability. However, I found it interesting that the stadiums with the highest scores for stadium experience have some of the highest affordability. I hypothesized that the stadiums with the best experience would be less affordable, with higher ticket prices for a higher quality stadium, however, this is not the case. 
 
 ![This is a chart showing the stadium experience score and affordability score of each team](experience-and-affordability.png)
 
 
 ### Ownership and the Bandwagon Factor 
 
-I was curious if loyalty to core players and the community has any relation to whether each team's next 5 years are likely to be better than their previous 5. I found that teams with lower ownership scores have higher bandwagon factor scores. My hypothesis was correct: the fans who are loyal to core players would be less likely to be a bandwagon, as they would be fans regardless if the team is projected to do well in the next 5 years. It is also interesting to see what teams have a high bandwagon factor scores, as player changes during the year of the data caused these teams to have more spotlight on them. 
+I was curious if loyalty to core players and the community has any relation to whether each team's next 5 years are likely to be better than their previous 5. [Using FiveThrityEight's data on GitHub](https://github.com/fivethirtyeight/data/blob/master/nfl-favorite-team/team-picking-categories.csv),I found that teams with lower ownership scores have higher bandwagon factor scores. My hypothesis was correct: the fans who are loyal to core players would be less likely to be a bandwagon, as they would be fans regardless if the team is projected to do well in the next 5 years. It is also interesting to see what teams have a high bandwagon factor scores, as player changes during the year of the data caused these teams to have more spotlight on them. 
 
 ![This is a chart showing the ownership score and bandwagon factor score](ownership-and-bandwagon.png)
 
